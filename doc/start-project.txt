@@ -1,0 +1,5 @@
+#1 - Instalar o node
+#2 - Instalar npm
+#3 - Rodar npm install
+#4 - Rodar Npm Build (ao rodar esse comando será criado uma pasta chamada Build)
+#5 - Iniciar o projeto npm start
